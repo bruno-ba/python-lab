@@ -7,5 +7,5 @@
 ***
 ### [tutorials:](https://github.com/bruno-ba/python-lab/tree/master/tutorials) tutoriais pontuais, atividades e vídeos.
 1. [Corey Schafer: Python Requests Tutorial - Request Web Pages, Download Images, POST Data, Read JSON, and More](https://youtu.be/tb8gHvYlCFs)
-   1. [atividades:](https://github.com/bruno-ba/python-lab/tree/master/tutorials/youtube/channel_coreyschafer/python_requests)
+   1. [atividades:](https://github.com/bruno-ba/python-lab/tree/master/tutorials/youtube/channel_coreyschafer/python_requests): estudo da biblioteca requests.
     
