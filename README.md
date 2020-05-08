@@ -6,6 +6,6 @@
    1. [cap-7](https://github.com/bruno-ba/python-lab/tree/master/books/automatize%20tarefas%20ma%C3%A7antes%20com%20python/cap-7_regex): neste capítulo aplica o uso de expressões regulares para facilitar a buscas em textos.
 ***
 ### [tutorials:](https://github.com/bruno-ba/python-lab/tree/master/tutorials) tutoriais pontuais, atividades e vídeos.
-1. [youtube channel: Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
-   1. [video: Python Requests Tutorial - Request Web Pages, Download Images, POST Data, Read JSON, and More](https://youtu.be/tb8gHvYlCFs)
-    1. [atividades:](https://github.com/bruno-ba/python-lab/tree/master/tutorials/youtube/channel_coreyschafer/python_requests)
+1. [Corey Schafer: Python Requests Tutorial - Request Web Pages, Download Images, POST Data, Read JSON, and More(https://youtu.be/tb8gHvYlCFs)
+   1. [atividades:](https://github.com/bruno-ba/python-lab/tree/master/tutorials/youtube/channel_coreyschafer/python_requests)
+    
